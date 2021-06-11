@@ -1,4 +1,4 @@
-- 👋 Ola sou @rgz-Felipe Ribeiro
+- 👋 Ola sou @ Felipe Ribeiro
 - Goiânia / Goias / Brasil
 - Estudante : Analise e Desenvolvimento de Sistemas Senai GO (Linguagem JAVA)2021/1
 - Email contato...frg.tecnol@gmail.com 
